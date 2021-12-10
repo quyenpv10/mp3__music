@@ -1,0 +1,1 @@
+const song = document.getElementById("song");
